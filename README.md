@@ -14,3 +14,20 @@ Let’s mention some examples:
 * Having an insight into what is happening and what people are talking about can be very valuable to financial traders. NLP is being used to track news, reports, comments about possible mergers between companies, everything can be then incorporated into a trading algorithm to generate massive profits. Remember: buy the rumor, sell the news.
 * NLP is also being used in both the search and selection phases of talent recruitment, identifying the skills of potential hires and also spotting prospects before they become active on the job market.
 * Powered by IBM Watson NLP technology, LegalMation developed a platform to automate routine litigation tasks and help legal teams save time, drive down costs and shift strategic focus.
+
+
+## Technologies Used
+* Matplotlib
+* Numpy
+* Seaborn
+* NLTK
+* TextBlob
+* Tensorflow
+* Pytorch
+* Jupyter Notebook
+
+## Known Bugs.
+{There are no known bugs}
+
+## Support and contact details
+{Any issues, questions, ideas, concerns or contributions to the code are highly encouraged. Contacts: paulmwaura254@gmail.com}
